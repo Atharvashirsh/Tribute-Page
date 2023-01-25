@@ -1,0 +1,158 @@
+body {
+    background-image: url(images/background.png);
+    font-family: "Ubuntu";
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+}
+.heading {
+    box-shadow: 2px 2px 20px#090909;
+    font-family: "Anton";
+    background-color: #424756;
+    height: 150px;
+    width: 1000px;
+    position: relative;
+    margin: 25px 20px;
+    padding: 5px 10px;
+    text-align: center;
+    border-radius: 25px;
+    line-height: 1;
+    font-size: 26px;
+    font-weight: 1200px;
+    color: #e5d049;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+}
+
+header img {
+    border: 2px solid black;
+    width: 80%;
+    border-radius: 25px;
+    margin: 25px 15px;
+}
+
+.contents {
+    margin: 30px auto;
+    color: #282828;
+}
+
+.blocks {
+    display: flex;
+    margin: 40px 40px;
+    background-color: #e1d798;
+    border-radius: 3rem;
+}
+
+.timeline1 {
+    padding: 20px 30px;
+    text-align: left;
+    line-height: 2.5;
+    font-size: 1.5rem;
+    font-weight: 600;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline1 img {
+    border-radius: 2rem;
+    width: 50%;
+    margin-right: 20px;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline2 {
+    padding: 20px 30px;
+    text-align: left;
+    line-height: 2.5;
+    font-size: 1.5rem;
+    font-weight: 600;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline2 img {
+    border-radius: 2rem;
+    width: 50%;
+    margin-left: 20px;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline3 {
+    padding: 20px 30px;
+    text-align: left;
+    line-height: 2.75;
+    font-size: 1.5rem;
+    font-weight: 600;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline3 img {
+    border-radius: 2rem;
+    width: 17%;
+    margin-right: 20px;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline4-1 {
+    padding: 20px 30px;
+    text-align: left;
+    line-height: 3.25;
+    font-size: 1.2rem;
+    font-weight: 600;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline4-1 img {
+    border-radius: 2rem;
+    width: 80%;
+    margin-left: 20px;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline4-2 {
+    padding: 20px 30px;
+    text-align: left;
+    line-height: 2.75;
+    font-size: 1.1rem;
+    font-weight: 600;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline4-2 img {
+    border-radius: 2rem;
+    width: 100%;
+    margin-right: 20px;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline5 {
+    padding: 20px 30px;
+    text-align: left;
+    line-height: 1.75;
+    font-size: 1.2rem;
+    font-weight: 600;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.timeline5 img {
+    border-radius: 2rem;
+    width: 180%;
+    margin-left: 20px;
+    box-shadow: 0 3px 10px #090909;
+}
+
+.tail {
+    background-color: #424756;
+    padding: 30px 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.tail img {
+    border-radius: 30px;
+    width: 100px;
+    height: 100px;
+    margin: 0 60px;
+    box-shadow: 0 5px 20px #090909;
+}
