@@ -1,6 +1,6 @@
 # Tribute-Page
 
-This is tribute page for 
+This is a [Tribute Page](https://atharvashirsh.github.io/Tribute-Page/) for 
 ## Major Mohit Sharma
 
 ---
